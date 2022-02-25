@@ -1,0 +1,38 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: Arial;
+}
+
+body {
+	background-color: #ededed;
+}
+
+div {
+	
+	position: absolute;
+    top: 50%;
+    left: 33%;
+     margin: -25px 0 0 -25px;
+}
+
+input {
+	
+	font-size: 18px;
+	border: solid 1px #aaa;
+	width: 30vw;
+	height:10vh;
+   vertical-align: middle;
+}
+input[type="button"] {
+	width: 10vw;
+	height: 12vh;
+	vertical-align: middle;
+}
+
+.title{
+	font-size: 3rem;
+	position: absolute;
+	top: 5%;
+	left: 40%;
+}
